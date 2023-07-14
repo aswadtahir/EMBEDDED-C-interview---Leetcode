@@ -1,5 +1,5 @@
 # EMBEDDED-C-interview---Leetcode
-Practice question 1: ADD TWO
+Practice question 1: TWO SUM
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
